@@ -14,4 +14,5 @@ nc localhost 3000
 
 No npm install needed, using core Node.js modules.
 
-PS. at least 2 clients should be connected to make sense of chat 
+PS. at least 2 clients should be connected to make sense of chat.
+ 
