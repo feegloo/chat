@@ -1,9 +1,9 @@
 # Run
 
-server
+server &nbsp;
 `node server.js`
 
-client &nbsp;
+client &nbsp;&nbsp;
 `nc localhost 8000`
 
 <br>
