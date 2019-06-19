@@ -7,7 +7,7 @@ node server.js
 
 ```
 # client
-nc localhost 8000
+nc localhost 3000
 ```
 
 <br>
