@@ -1,10 +1,14 @@
 # Run
 
-server &nbsp;
-`node server.js`
+```
+# server
+node server.js
+```
 
-client &nbsp;&nbsp;
-`nc localhost 8000`
+```
+# client
+nc localhost 8000
+```
 
 <br>
 
