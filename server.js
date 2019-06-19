@@ -19,6 +19,5 @@ server = net.createServer(socket => {
   });
 });
 
-server.listen(8000);
-// nc localhost 8000
-console.log("running chat server on TCP localhost:8000");
+server.listen(3000);
+console.log("running chat server on TCP localhost:3000");
