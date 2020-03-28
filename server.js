@@ -1,8 +1,6 @@
-net = require('net')
-
 sockets = []
 
-server = net.createServer(socket => {
+server = require('net').createServer(socket => {
   sockets.push(socket)
 
   socket.on('data', data => {
