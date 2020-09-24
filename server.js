@@ -5,9 +5,7 @@ server = require('net').createServer(socket => {
 
   socket.on('data', data => {
     for (s of sockets) {
-      if (s !== socket) {
-        s.write(data)
-      }
+      if (s !== socket) s.write(data)
     }
   })
 
