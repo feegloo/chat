@@ -14,7 +14,7 @@ nc localhost 3000
 
 PS. at least 2 clients (in seperated terminals) should be connected to make sense of chat.
  
-#### Alternative: run in one line without downloading source code 
+#### Alternative: run server without downloading source code 
  
 ```
 # server
