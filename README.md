@@ -12,7 +12,7 @@ nc localhost 3000
 
 <br>
 
-PS. at least 2 clients should be connected to make sense of chat.
+PS. at least 2 clients (in seperated terminals) should be connected to make sense of chat.
  
 #### Alternative: run in one line without downloading source code 
  
