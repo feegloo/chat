@@ -14,7 +14,7 @@ nc localhost 3000
 
 PS. at least 2 clients (in seperated terminals) should be connected to make sense of chat.
  
-#### Alternative: run server now with 1 command
+#### Alternative: run server without cloning repo
  
 ```
 # server
