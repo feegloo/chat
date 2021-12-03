@@ -1,12 +1,12 @@
 # Run
 
+`# server`
 ```
-# server
 node server.js
 ```
 
+`# client`
 ```
-# client
 nc localhost 3000
 ```
 
@@ -16,7 +16,7 @@ PS. at least 2 clients (in seperated terminals) should be connected to make sens
  
 #### Alternative: run server without cloning repo
  
+`# server`
 ```
-# server
 curl -s https://raw.githubusercontent.com/feegloo/chat/master/server.js | node
 ```
