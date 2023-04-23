@@ -10,6 +10,11 @@ node server.js
 nc localhost 3000
 ```
 
+`# client - real time typing`
+```
+stty -icanon && nc localhost 3000
+```
+
 <br>
 
 PS. at least 2 clients (in seperated terminals) should be connected to make sense of chat.
